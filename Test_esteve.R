@@ -1,3 +1,0 @@
-str(mtcars)
-
-pairs(mtcars)
