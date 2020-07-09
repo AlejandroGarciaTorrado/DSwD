@@ -1,0 +1,3 @@
+str(mtcars)
+
+pairs(mtcars)
